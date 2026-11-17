@@ -12,7 +12,7 @@
 </p>
 
 <p align="center">
-  <a href="https://inetlab.vercel.app/#/ru">Live demo</a>
+  <a href="https://inetlab.vercel.app/#/en">Live demo</a>
 </p>
 
 ## What it does
